@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.12"
+  },
+  "name": "project05_word_counter",
+  "description": "The user will enter a english paragraph and all that is needed is to just to implement counting characters and words without whitespaces.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
